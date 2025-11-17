@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuoteApp.SettingsPage"
+             Title="Settings">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="24">
+
+            <Label Text="Personalization" FontSize="20" FontAttributes="Bold" />
+            <Frame Padding="16" CornerRadius="12" BackgroundColor="{DynamicResource SecondaryColor}">
+                <VerticalStackLayout Spacing="12">
+
+                    <Label Text="Preferred Eras" FontAttributes="Bold" />
+                    <Picker Title="Select Eras">
+                        <Picker.Items>
+                            <x:String>Classical Era</x:String>
+                            <x:String>Renaissance</x:String>
+                            <x:String>Enlightenment</x:String>
+                            <x:String>Modern History</x:String>
+                        </Picker.Items>
+                    </Picker>
+
+                    <Label Text="Daily Learning Time" FontAttributes="Bold" />
+                    <Picker>
+                        <Picker.Items>
+                            <x:String>1 Minute</x:String>
+                            <x:String>5 Minutes</x:String>
+                            <x:String>10 Minutes</x:String>
+                        </Picker.Items>
+                    </Picker>
+
+                    <Label Text="Quote Delivery Time" FontAttributes="Bold" />
+                    <TimePicker Time="09:00:00" />
+                    <Label Text="AI Story Style" FontAttributes="Bold" />
+                    <Picker>
+                        <Picker.Items>
+                            <x:String>Narrative</x:String>
+                            <x:String>Scholarly</x:String>
+                            <x:String>Inspirational</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Label Text="Notifications" FontSize="20" FontAttributes="Bold" />
+            <Frame Padding="16" CornerRadius="12" BackgroundColor="{DynamicResource SecondaryColor}">
+                <VerticalStackLayout Spacing="16">
+                    <HorizontalStackLayout>
+                        <Label Text="Daily Quote" VerticalOptions="Center" />
+                        <Switch IsToggled="True" HorizontalOptions="EndAndExpand" />
+                    </HorizontalStackLayout>
+
+                    <HorizontalStackLayout>
+                        <Label Text="Reflection Reminder" VerticalOptions="Center" />
+                        <Switch HorizontalOptions="EndAndExpand" />
+                    </HorizontalStackLayout>
+
+                    <HorizontalStackLayout>
+                        <Label Text="Weekly Summary" VerticalOptions="Center" />
+                        <Switch IsToggled="True" HorizontalOptions="EndAndExpand" />
+                    </HorizontalStackLayout>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Label Text="Appearance" FontSize="20" FontAttributes="Bold" />
+            <Frame Padding="16" CornerRadius="12" BackgroundColor="{DynamicResource SecondaryColor}">
+                <VerticalStackLayout Spacing="12">
+                    <Label Text="Theme" FontAttributes="Bold" />
+                    <Picker>
+                        <Picker.Items>
+                            <x:String>Light</x:String>
+                            <x:String>Dark</x:String>
+                            <x:String>System Default</x:String>
+                        </Picker.Items>
+                    </Picker>
+
+                    <Label Text="Font Size" FontAttributes="Bold" />
+                    <Slider Minimum="12" Maximum="24" Value="16" />
+                </VerticalStackLayout>
+            </Frame>
+
+            <Label Text="Support &amp; Info" FontSize="20" FontAttributes="Bold" />
+            <Frame Padding="16" CornerRadius="12" BackgroundColor="{DynamicResource SecondaryColor}">
+                <VerticalStackLayout Spacing="16">
+                    <Button Text="Contact Support" />
+                    <Button Text="Submit Feedback" />
+                    <Button Text="Privacy Policy" />
+                    <Button Text="Terms of Service" />
+                </VerticalStackLayout>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

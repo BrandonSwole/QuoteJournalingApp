@@ -1,0 +1,148 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="QuoteApp.MainPage"
+			 Title="Daily Quotes">
+
+    <Grid RowDefinitions="Auto, *, Auto">
+
+        <Grid Grid.Row="0" 
+			  BackgroundColor="#2e0198"
+			  Padding="15"
+			  HeightRequest="60"
+			  x:Name="HeaderBar">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Quotes"
+				   FontSize="24"
+				   FontAttributes="Bold"
+				   VerticalOptions="Center"
+				   HorizontalOptions="Start"
+				   TextColor="Black" />
+
+            <ImageButton x:Name="MenuButton"
+						 Grid.Column="1"
+						 Source="menu_icon.png"
+						 WidthRequest="35"
+						 HeightRequest="35"
+						 BackgroundColor="Transparent"
+						 VerticalOptions="Center"
+						 Clicked="OnMenuButtonClicked" />
+        </Grid>
+
+        <StackLayout x:Name="DropdownMenu"
+					 Grid.Row="1"
+					 Margin="0" 
+					 BackgroundColor="White"
+					 Padding="15"
+					 IsVisible="False"
+					 TranslationY="-200" ZIndex="10"
+					 Spacing="15"
+					 VerticalOptions="Start"
+					 HorizontalOptions="End"
+					 WidthRequest="200">
+
+            <HorizontalStackLayout>
+                <Image Source="heart_icon.png" WidthRequest="20" HeightRequest="20" />
+                <Label Text="Favorite" FontSize="18" TextColor="Black" />
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout>
+                <Image Source="comic_bubble_icon.png" WidthRequest="20" HeightRequest="20" />
+                <Label Text="Reflect" FontSize="18" TextColor="Black" />
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout>
+                <Image Source="download_icon.png" WidthRequest="20" HeightRequest="20" />
+                <Label Text="Share" FontSize="18" TextColor="Black" />
+            </HorizontalStackLayout>
+        </StackLayout>
+
+        <ScrollView Grid.Row="1"
+                    BackgroundColor="#eee5ff">
+            <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center">
+                <Label x:Name="QuoteLabel"
+				Text="Tap the button for inspiration!"
+				FontSize="24"
+				HorizontalTextAlignment="Center"
+				TextColor="Black"
+				FontAttributes="Italic" />
+
+                <Label x:Name="AuthorLabel"
+				Text=""
+				FontSize="18"
+				HorizontalTextAlignment="Center"
+				TextColor="Gray" />
+
+                <Label x:Name="EraLabel"
+				Text=""
+				FontSize="18"
+				HorizontalTextAlignment="Center"
+				TextColor="Black" />
+
+                <Label x:Name="YearLabel"
+				Text=""
+				FontSize="18"
+				HorizontalTextAlignment="Center"
+				TextColor="Black" />
+
+                <Label x:Name="OriginLabel"
+				Text=""
+				FontSize="18"
+				HorizontalTextAlignment="Center"
+				TextColor="Black" />
+
+                <Label x:Name="TagsLabel"
+				Text=""
+				FontSize="18"
+				HorizontalTextAlignment="Center"
+				TextColor="Black" />
+
+                <Label 
+				x:Name="ContextLabel" 
+				FontSize="Medium" 
+				TextColor="Black" 
+				Margin="0, 20, 0, 0" 
+				/>
+
+                <Button Text="New Quote"
+				 Clicked="OnNewQuoteClicked"
+				 HorizontalOptions="Center" />
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <FlexLayout Grid.Row="2" 
+						 Direction="Row"
+						 AlignItems="Center"
+						 JustifyContent="SpaceEvenly"
+						 BackgroundColor="#2e0198" 
+						 HeightRequest="60"
+						 HorizontalOptions="FillAndExpand">
+
+            <ImageButton Source="settings_icon.png"
+							 Clicked="OnSettingsTapped"
+							 WidthRequest="40"
+							 HeightRequest="40"
+							 BackgroundColor="Transparent" />
+
+            <ImageButton Source="home_icon.png"
+							 WidthRequest="40"
+							 HeightRequest="40"
+							 BackgroundColor="Transparent" />
+
+            <ImageButton Source="cognition_icon.png"
+							 Clicked="OnReflectionTapped"
+							 WidthRequest="40"
+							 HeightRequest="40"
+							 BackgroundColor="Transparent" />
+
+            <ImageButton Source="profile_icon.png"
+							Clicked="OnProfileTapped"
+							 WidthRequest="40"
+							 HeightRequest="40"
+							 BackgroundColor="Transparent" />
+        </FlexLayout>
+    </Grid>
+</ContentPage>

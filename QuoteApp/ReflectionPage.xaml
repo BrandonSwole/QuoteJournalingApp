@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuoteApp.ReflectionPage"
+             Title="ReflectionPage">
+    <VerticalStackLayout Padding="20">
+        <Label 
+            Text="Welcome to Reflection"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label x:Name="QuoteLabel"
+            Text=""
+            VerticalOptions="Center"
+            HorizontalOptions="Center"/>
+
+        <Label Text="Write your thoughts down here" FontSize="Medium"/>
+        
+        <Editor x:Name="Reflection" 
+                Placeholder="The unexamined life is not worth living -Socrates "
+                HeightRequest="200"
+                Margin="0,10,0,0"
+                TextChanged="OnEditorTextChanged"
+                Completed="OnEditorCompleted" />
+
+        <Button Text="Save" Clicked="OnSaveButtonClciked"/>
+
+    </VerticalStackLayout>
+</ContentPage>

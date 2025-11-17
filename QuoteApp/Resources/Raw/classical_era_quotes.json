@@ -1,0 +1,1396 @@
+﻿{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "The unexamined life is not worth living.",
+      "author": "Socrates",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Philosophy",
+        "Ethics",
+        "Self-Knowledge"
+      ],
+      "context_prompt": "Explain how this quote reflects the Socratic method and its role in Athenian philosophy."
+    },
+    {
+      "id": 2,
+      "text": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+      "author": "Aristotle",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Stagira, Greece",
+      "tags": [
+        "Wisdom",
+        "Education",
+        "Critical Thinking"
+      ],
+      "context_prompt": "Explain Aristotle's philosophy of critical thinking and education in ancient Greece."
+    },
+    {
+      "id": 3,
+      "text": "Waste no more time arguing about what a good man should be. Be one.",
+      "author": "Marcus Aurelius",
+      "era": "Classical Era",
+      "year": "2nd century CE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Stoicism",
+        "Virtue",
+        "Leadership"
+      ],
+      "context_prompt": "Explain how Marcus Aurelius' Stoic philosophy informs practical ethics and leadership."
+    },
+    {
+      "id": 4,
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Stagira, Greece",
+      "tags": [
+        "Philosophy",
+        "Habits",
+        "Virtue"
+      ],
+      "context_prompt": "Describe Aristotle's view on habits and moral excellence."
+    },
+    {
+      "id": 5,
+      "text": "Man is the measure of all things.",
+      "author": "Protagoras",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Abdera, Greece",
+      "tags": [
+        "Philosophy",
+        "Relativism"
+      ],
+      "context_prompt": "Explain the philosophical meaning of Protagoras' claim about human perception."
+    },
+    {
+      "id": 6,
+      "text": "First say to yourself what you would be; and then do what you have to do.",
+      "author": "Epictetus",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Hierapolis, Greece",
+      "tags": [
+        "Stoicism",
+        "Self-Discipline"
+      ],
+      "context_prompt": "Describe how Epictetus' Stoic principles guide personal action and self-discipline."
+    },
+    {
+      "id": 7,
+      "text": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Stagira, Greece",
+      "tags": [
+        "Happiness",
+        "Philosophy"
+      ],
+      "context_prompt": "Explain Aristotle's philosophy of happiness and human flourishing."
+    },
+    {
+      "id": 8,
+      "text": "No man ever steps in the same river twice.",
+      "author": "Heraclitus",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Ephesus",
+      "Greece\",": null,
+      "tags": [
+        "Philosophy",
+        "Change"
+      ],
+      "context_prompt": "Describe Heraclitus' philosophy of change and impermanence."
+    },
+    {
+      "id": 9,
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Cordoba, Spain",
+      "tags": [
+        "Stoicism",
+        "Fortune"
+      ],
+      "context_prompt": "Explain Seneca's views on fortune, preparation, and virtue."
+    },
+    {
+      "id": 10,
+      "text": "He who learns but does not think, is lost. He who thinks but does not learn is in great danger.",
+      "author": "Confucius",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lu, China",
+      "tags": [
+        "Wisdom",
+        "Learning",
+        "Eastern Philosophy"
+      ],
+      "context_prompt": "Describe how this idea fits into Confucian values and the pursuit of virtue."
+    },
+    {
+      "id": 11,
+      "text": "Knowing yourself is the beginning of all wisdom.",
+      "author": "Aristotle",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Stagira, Greece",
+      "tags": [
+        "Philosophy",
+        "Self-Knowledge"
+      ],
+      "context_prompt": "Explain Aristotle's emphasis on self-knowledge as the foundation for wisdom."
+    },
+    {
+      "id": 12,
+      "text": "Virtue is nothing else than right reason.",
+      "author": "Cicero",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Virtue",
+        "Reason",
+        "Ethics"
+      ],
+      "context_prompt": "Describe Cicero's conception of virtue and its relation to reason in Roman philosophy."
+    },
+    {
+      "id": 13,
+      "text": "Study the past if you would define the future.",
+      "author": "Confucius",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lu, China",
+      "tags": [
+        "History",
+        "Wisdom"
+      ],
+      "context_prompt": "Explain the importance of studying history according to Confucian principles."
+    },
+    {
+      "id": 14,
+      "text": "Courage is knowing what not to fear.",
+      "author": "Plato",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Courage",
+        "Philosophy"
+      ],
+      "context_prompt": "Describe Plato's view of courage in the context of the virtues in his philosophy."
+    },
+    {
+      "id": 15,
+      "text": "The best way to predict your future is to create it.",
+      "author": "Socrates",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Wisdom",
+        "Action"
+      ],
+      "context_prompt": "Explain how Socrates' philosophy encourages proactive engagement with life and self-development."
+    },
+    {
+      "id": 16,
+      "text": "The greatest wealth is to live content with little.",
+      "author": "Plato",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Contentment",
+        "Wealth",
+        "Simplicity"
+      ],
+      "context_prompt": "Discuss Plato's perspective on true wealth and contentment, contrasting it with material possessions."
+    },
+    {
+      "id": 17,
+      "text": "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.",
+      "author": "Marcus Aurelius",
+      "era": "Classical Era",
+      "year": "2nd century CE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Stoicism",
+        "Perception",
+        "Emotional Control"
+      ],
+      "context_prompt": "Elaborate on the Stoic doctrine of the 'Dichotomy of Control' as presented by Marcus Aurelius."
+    },
+    {
+      "id": 18,
+      "text": "It is not that we have a short time to live, but that we waste a lot of it.",
+      "author": "Seneca",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Cordoba, Spain",
+      "tags": [
+        "Time",
+        "Procrastination",
+        "Mortality"
+      ],
+      "context_prompt": "Analyze Seneca's views on the management of time and the human tendency toward procrastination from 'On the Shortness of Life'."
+    },
+    {
+      "id": 19,
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "era": "Classical Era",
+      "year": "2nd century CE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Stoicism",
+        "Obstacle",
+        "Resilience"
+      ],
+      "context_prompt": "Explain this Stoic principle of transforming obstacles into opportunities for growth."
+    },
+    {
+      "id": 20,
+      "text": "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.",
+      "author": "Epictetus",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Hierapolis, Greece",
+      "tags": [
+        "Freedom",
+        "Stoicism",
+        "Control"
+      ],
+      "context_prompt": "Discuss Epictetus' concept of freedom as an internal state achieved through recognizing the limits of one's control."
+    },
+    {
+      "id": 21,
+      "text": "Philosophy is the love of wisdom.",
+      "author": "Pythagoras",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Samos, Greece",
+      "tags": [
+        "Philosophy",
+        "Definition",
+        "Etymology"
+      ],
+      "context_prompt": "Describe the meaning of the Greek term 'philosophia' and Pythagoras' role in coining it."
+    },
+    {
+      "id": 22,
+      "text": "An empty purse is an empty curse.",
+      "author": "Menander",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Proverb",
+        "Wealth",
+        "Poverty"
+      ],
+      "context_prompt": "Analyze this quote in the context of Greek New Comedy's focus on everyday life and social concerns."
+    },
+    {
+      "id": 23,
+      "text": "To be ignorant of what occurred before you were born is to remain always a child.",
+      "author": "Cicero",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "History",
+        "Knowledge",
+        "Education"
+      ],
+      "context_prompt": "Explain Cicero's emphasis on history and its importance for the mature Roman citizen and orator."
+    },
+    {
+      "id": 24,
+      "text": "True law is right reason in agreement with nature; it is of universal application, unchanging and everlasting.",
+      "author": "Cicero",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Law",
+        "Nature",
+        "Reason"
+      ],
+      "context_prompt": "Describe the concept of 'Natural Law' as defined by Cicero in Roman jurisprudence and Stoicism."
+    },
+    {
+      "id": 25,
+      "text": "The wise man is content with his lot, whatever it may be, without wishing for what he has not.",
+      "author": "Seneca",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Cordoba, Spain",
+      "tags": [
+        "Stoicism",
+        "Contentment",
+        "Austerity"
+      ],
+      "context_prompt": "How does this quote embody the Stoic value of accepting fate and cultivating inner satisfaction?"
+    },
+    {
+      "id": 26,
+      "text": "The universe is change; life is opinion.",
+      "author": "Marcus Aurelius",
+      "era": "Classical Era",
+      "year": "2nd century CE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Stoicism",
+        "Change",
+        "Reality"
+      ],
+      "context_prompt": "Analyze this quote's dual emphasis on the ceaseless flux of the cosmos and the power of human perception."
+    },
+    {
+      "id": 27,
+      "text": "He is not a man, but a god, who has broken every chain of fate.",
+      "author": "Lucretius",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Epicureanism",
+        "Freedom",
+        "Religion"
+      ],
+      "context_prompt": "Explain how this quote from 'De Rerum Natura' reflects Lucretius' Epicurean dismissal of divine intervention and fate."
+    },
+    {
+      "id": 28,
+      "text": "The beginning of every good thing is the study of philosophy.",
+      "author": "Plato",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Philosophy",
+        "Goodness",
+        "Foundation"
+      ],
+      "context_prompt": "Describe Plato's belief in philosophy as the highest form of study and the path to True Knowledge (Forms)."
+    },
+    {
+      "id": 29,
+      "text": "The greatest blessings of mankind are within us and within our reach. A wise man is content with his lot, whatever it may be.",
+      "author": "Seneca",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Cordoba, Spain",
+      "tags": [
+        "Stoicism",
+        "Happiness",
+        "Inner Life"
+      ],
+      "context_prompt": "How does Seneca advocate for an internal source of happiness, contrasting it with external goods?"
+    },
+    {
+      "id": 30,
+      "text": "Men are disturbed, not by things, but by the principles and notions which they form concerning things.",
+      "author": "Epictetus",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Hierapolis, Greece",
+      "tags": [
+        "Stoicism",
+        "Emotion",
+        "Judgment"
+      ],
+      "context_prompt": "Elaborate on how Epictetus separates external events from our internal judgments in the cause of emotional disturbance."
+    },
+    {
+      "id": 31,
+      "text": "Our actions may be impeded, but there can be no impeding our intentions or dispositions. Because we can accommodate and adapt. The mind adapts and converts to its own purposes the obstacle to our acting.",
+      "author": "Marcus Aurelius",
+      "era": "Classical Era",
+      "year": "2nd century CE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Stoicism",
+        "Adaptability",
+        "Will"
+      ],
+      "context_prompt": "Explain the Stoic concept of the inviolable nature of one's 'prohairesis' (moral purpose) despite external impediments."
+    },
+    {
+      "id": 32,
+      "text": "All things are parts of one single system, which is called Nature; the individual life is good when it is in harmony with Nature.",
+      "author": "Zeno of Citium",
+      "era": "Classical Era",
+      "year": "4th-3rd century BCE",
+      "origin": "Citium, Cyprus",
+      "tags": [
+        "Stoicism",
+        "Nature",
+        "Cosmology"
+      ],
+      "context_prompt": "Describe the foundational Stoic principle of 'living in accordance with Nature' and its ethical implications."
+    },
+    {
+      "id": 33,
+      "text": "Necessity is the mother of invention.",
+      "author": "Plato",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Necessity",
+        "Creativity",
+        "Proverb"
+      ],
+      "context_prompt": "Explain the context in which Plato discusses the origin of human arts and needs in 'The Republic'."
+    },
+    {
+      "id": 34,
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Cordoba, Spain",
+      "tags": [
+        "Anxiety",
+        "Fear",
+        "Imagination"
+      ],
+      "context_prompt": "Analyze Seneca's advice on fear and anxiety, suggesting that premeditation of future evils is often worse than the reality."
+    },
+    {
+      "id": 35,
+      "text": "A man’s feet should be planted in his country, but his eyes should survey the world.",
+      "author": "Seneca",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Cordoba, Spain",
+      "tags": [
+        "Cosmopolitanism",
+        "Citizenship",
+        "Perspective"
+      ],
+      "context_prompt": "Discuss the Stoic concept of **Cosmopolitanism** and its balance between local duty and universal perspective."
+    },
+    {
+      "id": 36,
+      "text": "Nature does nothing in vain.",
+      "author": "Aristotle",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Stagira, Greece",
+      "tags": [
+        "Teleology",
+        "Nature",
+        "Purpose"
+      ],
+      "context_prompt": "Explain Aristotle's **teleological** view of nature—that everything in nature has an inherent purpose or end (telos)."
+    },
+    {
+      "id": 37,
+      "text": "Where there is no shame, there is no virtue.",
+      "author": "Cicero",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Ethics",
+        "Shame",
+        "Morality"
+      ],
+      "context_prompt": "Describe the Roman emphasis on **pudicitia** (modesty/shame) and its role in maintaining public and private virtue."
+    },
+    {
+      "id": 38,
+      "text": "If a man can't be disturbed by the fear of death, he has peace in his heart.",
+      "author": "Lucretius",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Epicureanism",
+        "Death",
+        "Apatheia"
+      ],
+      "context_prompt": "Explain the Epicurean argument against the fear of death: that 'where we are, death is not; and where death is, we are not.'"
+    },
+    {
+      "id": 39,
+      "text": "Seek not that things should happen as you wish, but wish them to happen as they do happen, and you will go on well.",
+      "author": "Epictetus",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Hierapolis, Greece",
+      "tags": [
+        "Stoicism",
+        "Acceptance",
+        "Serenity"
+      ],
+      "context_prompt": "Describe this core teaching of Stoicism regarding acceptance of fate and its contribution to inner peace."
+    },
+    {
+      "id": 40,
+      "text": "How many have laid waste to your life when you weren't aware of what you were losing?",
+      "author": "Seneca",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Cordoba, Spain",
+      "tags": [
+        "Time",
+        "Reflection",
+        "Self-Awareness"
+      ],
+      "context_prompt": "How does Seneca use the metaphor of 'wasting life' to critique the distractions of Roman social life?"
+    },
+    {
+      "id": 41,
+      "text": "Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.",
+      "author": "Marcus Aurelius",
+      "era": "Classical Era",
+      "year": "2nd century CE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Memento Mori",
+        "Virtue",
+        "Urgency"
+      ],
+      "context_prompt": "Explain the role of **memento mori** (remember you must die) in Marcus Aurelius' ethical imperative."
+    },
+    {
+      "id": 42,
+      "text": "The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.",
+      "author": "Parmenides",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Elea, Italy",
+      "tags": [
+        "Metaphysics",
+        "Mind",
+        "Reality"
+      ],
+      "context_prompt": "Discuss Parmenides' radical concept of the unity of 'Being' and the power of the mind over perceived reality."
+    },
+    {
+      "id": 43,
+      "text": "Only the knowledge that comes from inside is the true knowledge.",
+      "author": "Socrates",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Epistemology",
+        "Self-Knowledge",
+        "Innateness"
+      ],
+      "context_prompt": "Relate this quote to Socrates' belief that knowledge is latent within the soul and merely needs to be 'drawn out' (maieutics)."
+    },
+    {
+      "id": 44,
+      "text": "The greatest good is contentment with the present.",
+      "author": "Epictetus",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Hierapolis, Greece",
+      "tags": [
+        "Stoicism",
+        "Present",
+        "Happiness"
+      ],
+      "context_prompt": "Explain how focusing on the present moment eliminates anxiety about the past and future in Epictetus' philosophy."
+    },
+    {
+      "id": 45,
+      "text": "Praise is the one weapon on earth against which there is absolutely no defense.",
+      "author": "Thucydides",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Alimos, Greece",
+      "tags": [
+        "Rhetoric",
+        "Human Nature",
+        "Politics"
+      ],
+      "context_prompt": "Discuss this quote in the context of Thucydides' analysis of human motivation and political influence in 'The History of the Peloponnesian War'."
+    },
+    {
+      "id": 46,
+      "text": "The most completely useless education is that which prepares you for everything except to be a good man.",
+      "author": "Cicero",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Education",
+        "Virtue",
+        "Purpose"
+      ],
+      "context_prompt": "Explain Cicero's view that the primary goal of education should be the formation of moral character and good citizenship."
+    },
+    {
+      "id": 47,
+      "text": "Where love is, there is no question.",
+      "author": "Plato",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Love",
+        "Philosophy",
+        "Trust"
+      ],
+      "context_prompt": "Analyze this quote in the context of Plato's **Eros** and the ascent to the **Form of Beauty** in 'The Symposium'."
+    },
+    {
+      "id": 48,
+      "text": "Nothing is so burdensome as the debt of a kindness.",
+      "author": "Cicero",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Gratitude",
+        "Obligation",
+        "Social Ethics"
+      ],
+      "context_prompt": "Describe the Roman and Stoic view on **officium** (duty) and the social burdens associated with receiving favors."
+    },
+    {
+      "id": 49,
+      "text": "Even as a solid rock is unshaken by the wind, so also the wise man is unmoved by praise or blame.",
+      "author": "Buddha (Siddhartha Gautama)",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lumbini, Nepal (Ancient India)",
+      "tags": [
+        "Buddhism",
+        "Equanimity",
+        "Wisdom"
+      ],
+      "context_prompt": "Explain the Buddhist concept of **upekkhā** (equanimity) as a central component of spiritual freedom."
+    },
+    {
+      "id": 50,
+      "text": "The whole world is a city, and all men are citizens of it.",
+      "author": "Diogenes of Sinope",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Sinope, Turkey",
+      "tags": [
+        "Cynicism",
+        "Cosmopolitanism",
+        "Citizenship"
+      ],
+      "context_prompt": "Discuss Diogenes' Cynic rejection of local political and social boundaries in favor of a universal citizenship."
+    },
+    {
+      "id": 51,
+      "text": "The journey of a thousand miles begins with a single step.",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Taoism",
+        "Action",
+        "Beginning"
+      ],
+      "context_prompt": "Analyze this quote as an illustration of the Taoist principle of **wei wu wei** (action without intention) and gradual growth."
+    },
+    {
+      "id": 52,
+      "text": "If you know the enemy and know yourself, you need not fear the result of a hundred battles.",
+      "author": "Sun Tzu",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Qi, China",
+      "tags": [
+        "Strategy",
+        "Self-Knowledge",
+        "Military"
+      ],
+      "context_prompt": "Explain the importance of intelligence gathering and self-assessment in Sun Tzu's military philosophy from 'The Art of War'."
+    },
+    {
+      "id": 53,
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha (Siddhartha Gautama)",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lumbini, Nepal (Ancient India)",
+      "tags": [
+        "Buddhism",
+        "Mindfulness",
+        "Meditation"
+      ],
+      "context_prompt": "Describe the Buddhist concept of **Sati** (mindfulness) and its role in attaining enlightenment."
+    },
+    {
+      "id": 54,
+      "text": "The superior man is all-embracing and not partial. The inferior man is partial and not all-embracing.",
+      "author": "Confucius",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lu, China",
+      "tags": [
+        "Confucianism",
+        "Integrity",
+        "Leadership"
+      ],
+      "context_prompt": "Explain the distinction between the **Jūnzǐ** (Superior Man) and the **Xiǎorén** (Inferior Man) in Confucian philosophy."
+    },
+    {
+      "id": 55,
+      "text": "Nature does not hurry, yet everything is accomplished.",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Taoism",
+        "Patience",
+        "Wu Wei"
+      ],
+      "context_prompt": "How does this quote reflect the Taoist ideal of effortless action and natural efficiency (**Ziran**)?"
+    },
+    {
+      "id": 56,
+      "text": "To subdue the enemy without fighting is the acme of skill.",
+      "author": "Sun Tzu",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Qi, China",
+      "tags": [
+        "Strategy",
+        "Non-Violence",
+        "Diplomacy"
+      ],
+      "context_prompt": "Discuss Sun Tzu's preference for bloodless victory and attacking the enemy's strategy ('The Art of War', Chapter 3)."
+    },
+    {
+      "id": 57,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha (Siddhartha Gautama)",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lumbini, Nepal (Ancient India)",
+      "tags": [
+        "Truth",
+        "Nature",
+        "Karma"
+      ],
+      "context_prompt": "Explain the Buddhist emphasis on the inevitable revelation of truth and the natural law of cause and effect."
+    },
+    {
+      "id": 58,
+      "text": "The greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lu, China",
+      "tags": [
+        "Resilience",
+        "Learning",
+        "Perseverance"
+      ],
+      "context_prompt": "Describe the Confucian view of moral development as a continuous process of self-correction and perseverance."
+    },
+    {
+      "id": 59,
+      "text": "When the best leader’s work is done, the people say, 'We did it ourselves.'",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Leadership",
+        "Taoism",
+        "Humility"
+      ],
+      "context_prompt": "Analyze the Taoist ideal of the **Subtle Leader** who governs by inspiring rather than by conspicuous action."
+    },
+    {
+      "id": 60,
+      "text": "In the planning of a war, two factors must be taken into account: the enemy's strength and our own.",
+      "author": "Chanakya (Kautilya)",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Patna, India",
+      "tags": [
+        "Politics",
+        "Strategy",
+        "Realpolitik"
+      ],
+      "context_prompt": "Discuss this quote in the context of Chanakya's ruthless and pragmatic statecraft (Realpolitik) in the **Arthashastra**."
+    },
+    {
+      "id": 61,
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha (Siddhartha Gautama)",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lumbini, Nepal (Ancient India)",
+      "tags": [
+        "Buddhism",
+        "Inner Peace",
+        "Meditation"
+      ],
+      "context_prompt": "Explain how the Buddhist path to peace relies on internal work rather than changing external circumstances."
+    },
+    {
+      "id": 62,
+      "text": "Everything flows and nothing abides; everything gives way and nothing stays fixed.",
+      "author": "Heraclitus",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Ephesus, Greece",
+      "tags": [
+        "Philosophy",
+        "Change",
+        "Flux"
+      ],
+      "context_prompt": "Describe Heraclitus' doctrine of **panta rhei** (everything flows) as a fundamental aspect of reality."
+    },
+    {
+      "id": 63,
+      "text": "If a ruler himself is upright, all will do their duty. But if he is not upright, even though he gives commands, they will not be obeyed.",
+      "author": "Confucius",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lu, China",
+      "tags": [
+        "Leadership",
+        "Virtue",
+        "Governance"
+      ],
+      "context_prompt": "Explain the Confucian emphasis on the moral example of the ruler (**De**) as the basis for good governance."
+    },
+    {
+      "id": 64,
+      "text": "A man's worth is no greater than the worth of his ambitions.",
+      "author": "Marcus Aurelius",
+      "era": "Classical Era",
+      "year": "2nd century CE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Ambition",
+        "Stoicism",
+        "Purpose"
+      ],
+      "context_prompt": "Discuss the Stoic interpretation of 'ambition'—not for external glory, but for internal moral excellence."
+    },
+    {
+      "id": 65,
+      "text": "Yield and overcome; Bend and be straight; Empty and be full; Wear out and be new.",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Taoism",
+        "Paradox",
+        "Flexibility"
+      ],
+      "context_prompt": "Analyze this quote as an example of Taoist paradox and the power of softness and yielding in a conflict (Chapter 22)."
+    },
+    {
+      "id": 66,
+      "text": "Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.",
+      "author": "Sun Tzu",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Qi, China",
+      "tags": [
+        "Leadership",
+        "Military",
+        "Morale"
+      ],
+      "context_prompt": "Describe the importance of the general's relationship with his troops and the maintenance of high morale in 'The Art of War'."
+    },
+    {
+      "id": 67,
+      "text": "Suffering is caused by attachment to desires.",
+      "author": "Buddha (Siddhartha Gautama)",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lumbini, Nepal (Ancient India)",
+      "tags": [
+        "Buddhism",
+        "Suffering",
+        "Desire"
+      ],
+      "context_prompt": "Explain this core concept of the **Second Noble Truth** in Buddhism and its role in the cycle of suffering (**Dukkha**)."
+    },
+    {
+      "id": 68,
+      "text": "In the happiness of his subjects lies the king's happiness; in their welfare, his welfare.",
+      "author": "Chanakya (Kautilya)",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Patna, India",
+      "tags": [
+        "Governance",
+        "Leadership",
+        "Public Welfare"
+      ],
+      "context_prompt": "Discuss this seemingly benign quote in the context of Chanakya's underlying pragmatic justification for state actions."
+    },
+    {
+      "id": 69,
+      "text": "Silence is a source of great strength.",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Taoism",
+        "Meditation",
+        "Inner Strength"
+      ],
+      "context_prompt": "Explain the Taoist principle of value in stillness and quietude for spiritual and mental clarity."
+    },
+    {
+      "id": 70,
+      "text": "The object of war is victory; and that victory is always dear at a long price.",
+      "author": "Sun Tzu",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Qi, China",
+      "tags": [
+        "Military",
+        "Cost",
+        "Efficiency"
+      ],
+      "context_prompt": "Describe Sun Tzu's pragmatic emphasis on minimizing the duration and cost of conflict."
+    },
+    {
+      "id": 71,
+      "text": "The wise find pleasure in water; the virtuous find pleasure in hills. The wise are active; the virtuous are tranquil.",
+      "author": "Confucius",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lu, China",
+      "tags": [
+        "Virtue",
+        "Wisdom",
+        "Nature"
+      ],
+      "context_prompt": "Analyze the symbolism of water and mountains in this Confucian saying, representing different types of moral excellence."
+    },
+    {
+      "id": 72,
+      "text": "He who knows, does not speak. He who speaks, does not know.",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Taoism",
+        "Knowledge",
+        "Silence"
+      ],
+      "context_prompt": "Explain this Taoist paradox concerning the ineffable nature of the Tao and the limitation of verbal explanation."
+    },
+    {
+      "id": 73,
+      "text": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+      "author": "Plato",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Epistemology",
+        "Ignorance",
+        "Illusion"
+      ],
+      "context_prompt": "Relate this idea to the Socratic paradox, 'I know that I know nothing,' and its importance for genuine inquiry."
+    },
+    {
+      "id": 74,
+      "text": "The one thing that is essential is that you should free yourself from external pressure and from all outside constraint.",
+      "author": "Epictetus",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Hierapolis, Greece",
+      "tags": [
+        "Stoicism",
+        "Freedom",
+        "Internal Life"
+      ],
+      "context_prompt": "Describe how Epictetus, an ex-slave, defined true freedom as an internal, moral condition."
+    },
+    {
+      "id": 75,
+      "text": "The four sources of power are counsel, command, persuasion, and rewards.",
+      "author": "Chanakya (Kautilya)",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Patna, India",
+      "tags": [
+        "Politics",
+        "Power",
+        "Governance"
+      ],
+      "context_prompt": "Explain Chanakya's analysis of the mechanisms of royal authority and control over the state apparatus."
+    },
+    {
+      "id": 76,
+      "text": "All compound things are subject to decay. Strive diligently!",
+      "author": "Buddha (Siddhartha Gautama)",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lumbini, Nepal (Ancient India)",
+      "tags": [
+        "Impermanence",
+        "Diligence",
+        "Final Words"
+      ],
+      "context_prompt": "Analyze this final injunction of the Buddha, emphasizing impermanence (**Anicca**) and the need for effort."
+    },
+    {
+      "id": 77,
+      "text": "When the wind of change blows, some people build walls, others build windmills.",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Change",
+        "Adaptation",
+        "Innovation"
+      ],
+      "context_prompt": "Discuss the Taoist view on adapting to change, contrasting resistance with resourceful utilization."
+    },
+    {
+      "id": 78,
+      "text": "Hold faithfulness and sincerity as first principles.",
+      "author": "Confucius",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lu, China",
+      "tags": [
+        "Ethics",
+        "Trust",
+        "Sincerity"
+      ],
+      "context_prompt": "Explain the importance of **Xin** (faithfulness/sincerity) as a foundational virtue in Confucian relationships."
+    },
+    {
+      "id": 79,
+      "text": "Anger, if not restrained, is frequently more destructive than the injury that provokes it.",
+      "author": "Seneca",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Cordoba, Spain",
+      "tags": [
+        "Emotion",
+        "Control",
+        "Anger"
+      ],
+      "context_prompt": "Describe Seneca's treatise 'On Anger' and his argument that anger is a temporary madness and self-inflicted harm."
+    },
+    {
+      "id": 80,
+      "text": "To win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill.",
+      "author": "Sun Tzu",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Qi, China",
+      "tags": [
+        "Strategy",
+        "Efficiency",
+        "Mastery"
+      ],
+      "context_prompt": "Analyze this key strategic principle: the superior general avoids battle by manipulating the enemy's situation."
+    },
+    {
+      "id": 81,
+      "text": "We are easily fooled by that which we love.",
+      "author": "Medea (Euripides)",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Tragedy",
+        "Emotion",
+        "Deception"
+      ],
+      "context_prompt": "Explain how this tragic perspective in Greek drama addresses the destructive power of passion and self-deception."
+    },
+    {
+      "id": 82,
+      "text": "The greatest punishment of a person who has no interest in politics is to be ruled by people who are worse than him.",
+      "author": "Plato",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Politics",
+        "Duty",
+        "Citizenship"
+      ],
+      "context_prompt": "Discuss Plato's critique of the politically apathetic citizen and the necessity of philosopher-rulers in 'The Republic'."
+    },
+    {
+      "id": 83,
+      "text": "When I let go of what I am, I become what I might be.",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Self-Actualization",
+        "Letting Go",
+        "Potential"
+      ],
+      "context_prompt": "Explain how this Taoist idea advocates for transcending the ego's definition for self-realization."
+    },
+    {
+      "id": 84,
+      "text": "Death is a debt to be paid in full.",
+      "author": "Chanakya (Kautilya)",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Patna, India",
+      "tags": [
+        "Mortality",
+        "Realism",
+        "Duty"
+      ],
+      "context_prompt": "Discuss Chanakya's pragmatic view of death, contrasting it with the Stoic or Buddhist spiritual approaches."
+    },
+    {
+      "id": 85,
+      "text": "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
+      "author": "Buddha (Siddhartha Gautama)",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lumbini, Nepal (Ancient India)",
+      "tags": [
+        "Spirituality",
+        "Metaphor",
+        "Life"
+      ],
+      "context_prompt": "Explain the significance of spiritual practice and the **Dhamma** (cosmic order/teachings) in Buddhist life."
+    },
+    {
+      "id": 86,
+      "text": "Hold your course, and let people say what they will.",
+      "author": "Virgil",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Mantua, Italy",
+      "tags": [
+        "Determination",
+        "Duty",
+        "Roman Epic"
+      ],
+      "context_prompt": "Discuss this quote in the context of the Roman value of **gravitas** (seriousness/dignity) and the hero's duty in 'The Aeneid'."
+    },
+    {
+      "id": 87,
+      "text": "The power of life is in the soul, not in the body.",
+      "author": "Epictetus",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Hierapolis, Greece",
+      "tags": [
+        "Body-Mind",
+        "Stoicism",
+        "Essence"
+      ],
+      "context_prompt": "Explain Epictetus' prioritization of the **rational soul** and its moral choice over the perishable body."
+    },
+    {
+      "id": 88,
+      "text": "To be able to endure, is the first thing that a soldier should learn.",
+      "author": "Julius Caesar",
+      "era": "Classical Era",
+      "year": "1st century BCE",
+      "origin": "Rome, Italy",
+      "tags": [
+        "Military",
+        "Endurance",
+        "Discipline"
+      ],
+      "context_prompt": "Analyze this statement in the context of Roman military discipline and Caesar's leadership style as depicted in 'Gallic Wars'."
+    },
+    {
+      "id": 89,
+      "text": "Be kind, for everyone you meet is fighting a harder battle.",
+      "author": "Philo of Alexandria",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Alexandria, Egypt",
+      "tags": [
+        "Kindness",
+        "Empathy",
+        "Moral Duty"
+      ],
+      "context_prompt": "Discuss the ethical imperative of empathy and kindness within Philo's synthesis of Hellenistic philosophy and Judaism."
+    },
+    {
+      "id": 90,
+      "text": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+      "author": "Confucius",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lu, China",
+      "tags": [
+        "Wisdom",
+        "Learning",
+        "Method"
+      ],
+      "context_prompt": "Analyze this Confucian classification of the three modes of acquiring wisdom and their relative value."
+    },
+    {
+      "id": 91,
+      "text": "Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Taoism",
+        "Softness",
+        "Power"
+      ],
+      "context_prompt": "Explain the Taoist metaphor of **water** as a symbol of adaptability and superior, persistent power (Chapter 78)."
+    },
+    {
+      "id": 92,
+      "text": "Do not commit yourself to any course of action unless you can see your way through to the end.",
+      "author": "Chanakya (Kautilya)",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Patna, India",
+      "tags": [
+        "Strategy",
+        "Prudence",
+        "Foresight"
+      ],
+      "context_prompt": "Describe the Chanakyan emphasis on meticulous planning and foresight in political and military ventures."
+    },
+    {
+      "id": 93,
+      "text": "If you do not change direction, you may end up where you are heading.",
+      "author": "Laozi",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Chu, China",
+      "tags": [
+        "Action",
+        "Reflection",
+        "Consequence"
+      ],
+      "context_prompt": "How does this quote integrate the Taoist call for self-reflection and alignment with the Tao?"
+    },
+    {
+      "id": 94,
+      "text": "The secret to happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.",
+      "author": "Socrates",
+      "era": "Classical Era",
+      "year": "5th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Simplicity",
+        "Happiness",
+        "Austerity"
+      ],
+      "context_prompt": "Explain Socrates' practice of **asceticism** and his critique of Athenian materialism."
+    },
+    {
+      "id": 95,
+      "text": "There are only two mistakes one can make along the road to truth: not going all the way, and not starting.",
+      "author": "Buddha (Siddhartha Gautama)",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lumbini, Nepal (Ancient India)",
+      "tags": [
+        "Truth",
+        "Diligence",
+        "Spiritual Path"
+      ],
+      "context_prompt": "Discuss the Buddhist emphasis on taking the first step on the **Eightfold Path** and maintaining unwavering effort."
+    },
+    {
+      "id": 96,
+      "text": "The art of war is of vital importance to the State. It is a matter of life and death, a road either to safety or to ruin.",
+      "author": "Sun Tzu",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Qi, China",
+      "tags": [
+        "Strategy",
+        "Importance",
+        "Statecraft"
+      ],
+      "context_prompt": "Explain why Sun Tzu considered the careful study of military strategy to be an absolute necessity for the state's survival."
+    },
+    {
+      "id": 97,
+      "text": "The virtuous man is driven by responsibility, the non-virtuous man is driven by profit.",
+      "author": "Confucius",
+      "era": "Classical Era",
+      "year": "6th century BCE",
+      "origin": "Lu, China",
+      "tags": [
+        "Virtue",
+        "Profit",
+        "Motivation"
+      ],
+      "context_prompt": "Describe the Confucian ethical contrast between **Yì** (Righteousness/Duty) and **Lì** (Profit/Advantage)."
+    },
+    {
+      "id": 98,
+      "text": "The greatest penalty for those who do not partake in government is to submit to the rule of a man inferior to themselves.",
+      "author": "Plato",
+      "era": "Classical Era",
+      "year": "4th century BCE",
+      "origin": "Athens, Greece",
+      "tags": [
+        "Politics",
+        "Civic Duty",
+        "Justice"
+      ],
+      "context_prompt": "Explain the concept of civic responsibility in Plato's philosophy and the danger of political apathy."
+    },
+    {
+      "id": 99,
+      "text": "We suffer more in our imagination than in reality.",
+      "author": "Seneca",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Cordoba, Spain",
+      "tags": [
+        "Anxiety",
+        "Stoicism",
+        "Worry"
+      ],
+      "context_prompt": "Analyze Seneca's view on the anticipatory nature of human suffering and the need to control one's fears."
+    },
+    {
+      "id": 100,
+      "text": "The whole world is our city; philosophy should teach us to be a citizen of the world.",
+      "author": "Epictetus",
+      "era": "Classical Era",
+      "year": "1st century CE",
+      "origin": "Hierapolis, Greece",
+      "tags": [
+        "Cosmopolitanism",
+        "World Citizen",
+        "Stoicism"
+      ],
+      "context_prompt": "Describe the Stoic doctrine of **Cosmopolitanism**, advocating for loyalty to humanity over any single nation-state."
+    }
+  ]
+}
